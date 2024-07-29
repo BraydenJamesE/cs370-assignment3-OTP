@@ -6,11 +6,7 @@ Required Downloads:
     - pip install matplotlib
 
 How to Use:
-    In my submission, I have included an executable and the .py script itself. Both are used in the same way.
-
-    To use the .py script, type 'python3 submission.py --generate-qr' or 'python3 submission.py --get-otp'.
-
-    To use the executable, type './submission --generate-qr' or './submission --get-otp'.
+    To run the program using the submission.py script, type 'python3 submission.py --generate-qr' or 'python3 submission.py --get-otp'.
 
 Please note that I do not have an android, so all testing was done the the Google Authenticator IOS application.
 
